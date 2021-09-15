@@ -15,3 +15,7 @@ There are 2 ways to add wepb in defold.
  1. No fallback (simple)
  2. With fallback
 
+## No fallback
+1)Select splash image in game.project. 
+ - it will not show webp images in list, but if you write path it will work
+

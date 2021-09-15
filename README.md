@@ -23,6 +23,8 @@ There are 2 ways to add wepb in defold.
  - it will not show webp images in list, but if you write path it will work
 
 ## With fallback
+You will need to make changes in engine-template and css to make fallback working.
+
 1)Make a bundle resources folder. (bundle/web) Add it in game.project. 
 2)Put loading.webp and loading.png in bundle/web
 3)You need detect is browser support webp or not. I use [modernizr](https://modernizr.com/docs).

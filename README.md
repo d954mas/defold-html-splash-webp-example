@@ -10,13 +10,21 @@ In that example:
 Webp supported in most of current browsers https://caniuse.com/webp.
 But it better to add fallback to png, for some old browsers.
 
-For converting png to webp i use https://image.online-convert.com/convert-to-webp 
 
+For converting png to webp i use https://image.online-convert.com/convert-to-webp 
 
 There are 2 ways to add wepb in defold.
 
  1. No fallback (simple)
  2. With fallback
+
+
+If you like that. You can support me on patreon.
+It will help me make more items for defold.
+
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/d954mas)
+
+
 
 ## No fallback
 1)Select splash image in game.project. 
